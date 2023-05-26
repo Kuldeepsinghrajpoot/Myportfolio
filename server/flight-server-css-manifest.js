@@ -1,0 +1,12 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "D:\\Projects\\Next app\\portfolio\\src\\app\\layout.js": [
+      "D:\\Projects\\Next app\\portfolio\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\Projects\\Next app\\portfolio\\src\\app\\page": [
+      "D:\\Projects\\Next app\\portfolio\\src\\app\\globals.css"
+    ]
+  }
+}
